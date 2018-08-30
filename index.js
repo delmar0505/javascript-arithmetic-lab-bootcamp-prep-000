@@ -16,9 +16,3 @@ function increments(n){
 function decrements(a,b){
   return n--;
 }
-function (a,b){
-  
-}
-function (a,b){
-  
-}
